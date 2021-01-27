@@ -14,5 +14,5 @@ std::string disemvowel(std::string str)
             modified_String = modified_String + str[i];
         }
       }
-      return modified_String; 
+      return modified_String; //
 }
